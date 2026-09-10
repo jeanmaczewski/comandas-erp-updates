@@ -1,0 +1,28 @@
+{
+  "manifestFormat": 1,
+  "product": "ComandasERP",
+  "releaseId": "0.26.1-stable",
+  "channel": "stable",
+  "version": "0.26.1",
+  "minimumVersion": "0.25.9",
+  "publishedAtUtc": "2026-09-10T15:38:05.121Z",
+  "rolloutPercentage": 100,
+  "artifacts": [
+    {
+      "platform": "win-x64",
+      "kind": "windows-update-zip",
+      "fileName": "ComandasERP-Atualizacao-0.26.1-Windows-x64.zip",
+      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/v0.26.1/ComandasERP-Atualizacao-0.26.1-Windows-x64.zip",
+      "size": 175123670,
+      "sha256": "5d0cb80e3b4765115f4ff10d12fcc761691c2ae4d804913e337028e58694e46e"
+    },
+    {
+      "platform": "linux-x64",
+      "kind": "linux-deb",
+      "fileName": "comandaserp_0.26.1_amd64.deb",
+      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/v0.26.1/comandaserp_0.26.1_amd64.deb",
+      "size": 43739084,
+      "sha256": "41cfd21a87161212bf6dcac5386f22cabe9fa3ac42049ea56e851644fa9a21ad"
+    }
+  ]
+}
