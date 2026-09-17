@@ -1,28 +1,20 @@
 {
   "manifestFormat": 1,
   "product": "ComandasERP",
-  "releaseId": "0.26.3-pilot",
+  "releaseId": "0.26.4-pilot-rollback-0263",
   "channel": "pilot",
-  "version": "0.26.3",
-  "minimumVersion": "0.25.9",
-  "publishedAtUtc": "2026-09-17T00:10:56.297Z",
+  "version": "0.26.4",
+  "minimumVersion": "0.26.3",
+  "publishedAtUtc": "2026-09-17T15:08:58.998935Z",
   "rolloutPercentage": 100,
   "artifacts": [
     {
       "platform": "win-x64",
       "kind": "windows-update-zip",
-      "fileName": "ComandasERP-Atualizacao-0.26.3-Windows-x64.zip",
-      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/lab-0.26.3-r2/ComandasERP-Atualizacao-0.26.3-Windows-x64.zip",
-      "size": 175272784,
-      "sha256": "118971875066631d4905b6e117ad2f8967e2e5f654ca2ee1f4de3af3e19597af"
-    },
-    {
-      "platform": "linux-x64",
-      "kind": "linux-deb",
-      "fileName": "comandaserp_0.26.3_amd64.deb",
-      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/lab-0.26.3-r2/comandaserp_0.26.3_amd64.deb",
-      "size": 43750962,
-      "sha256": "bb621943d1062c905699b2b5e6415818ed997943e14a4bf6702bc59baebda7b6"
+      "fileName": "ComandasERP-Atualizacao-0.26.4-Windows-x64.zip",
+      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/lab-0.26.4-rollback-0263/ComandasERP-Atualizacao-0.26.4-Windows-x64.zip",
+      "size": 175272827,
+      "sha256": "85ce71495079c846fe5ad47a328239ab8cfc4351bb9a3b82fe15351bfcc8d3e7"
     }
   ]
 }
