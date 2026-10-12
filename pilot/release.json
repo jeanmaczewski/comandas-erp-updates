@@ -1,28 +1,28 @@
 {
   "manifestFormat": 1,
   "product": "ComandasERP",
-  "releaseId": "0.26.7-pilot",
+  "releaseId": "0.26.9-pilot",
   "channel": "pilot",
-  "version": "0.26.7",
+  "version": "0.26.9",
   "minimumVersion": "0.25.9",
-  "publishedAtUtc": "2026-09-24T01:57:56.630Z",
+  "publishedAtUtc": "2026-10-12T16:33:47.559Z",
   "rolloutPercentage": 10,
   "artifacts": [
     {
       "platform": "win-x64",
       "kind": "windows-update-zip",
-      "fileName": "ComandasERP-Atualizacao-0.26.7-Windows-x64.zip",
-      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/v0.26.7/ComandasERP-Atualizacao-0.26.7-Windows-x64.zip",
-      "size": 175308907,
-      "sha256": "c706198fd0ce75648be52ea7642b4e102c1e16faaaf1a72ea278e88866b654ea"
+      "fileName": "ComandasERP-Atualizacao-0.26.9-Windows-x64.zip",
+      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/v0.26.9/ComandasERP-Atualizacao-0.26.9-Windows-x64.zip",
+      "size": 175459536,
+      "sha256": "8b4345eb1494e11f283409ea322d37f12417c629fb611830e39224b621f9ab96"
     },
     {
       "platform": "linux-x64",
       "kind": "linux-deb",
-      "fileName": "comandaserp_0.26.7_amd64.deb",
-      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/v0.26.7/comandaserp_0.26.7_amd64.deb",
-      "size": 43769830,
-      "sha256": "724422edb0ad8bc5d3c5b262aeb5cf05496daf5e415d3ed5a139d98a73297daa"
+      "fileName": "comandaserp_0.26.9_amd64.deb",
+      "url": "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/v0.26.9/comandaserp_0.26.9_amd64.deb",
+      "size": 44045572,
+      "sha256": "af5aa3febee43a01d6a3c0abb481e2a50cdbb5fbde08a93b9d4a307a25f4bbc4"
     }
   ]
 }
