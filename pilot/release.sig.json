@@ -2,6 +2,6 @@
   "signatureFormat": 1,
   "algorithm": "ECDSA-P256-SHA256-DER",
   "keyId": "95ced4d22854e23b9a38b2340860e1c429138d15cced5459c9154e9853ae2131",
-  "manifestSha256": "efc179bd945e1025d375f1a6f2307c924033bc062840ad0f0f545400f88741fd",
-  "signatureBase64": "MEYCIQD/IvhOgrTqAgveqXyqkcP5yLxKXe5K18xTHTbibfg4tgIhAMgal127fj2P2YzlS8m2W0Ic3y+ujHiJneQaJ0uoYcy2"
+  "manifestSha256": "4edad55316d199426e9adaa41cdcd5206c11afa15270c0e023bee657f6e24d29",
+  "signatureBase64": "MEYCIQCFU/s72NnpENLZkWEIbbIQwM0scZy5xfLtTGDdNtpO9QIhAM47SgbwBbJJbgsOZvC1czUuTtNGe64acXavxwX+mgIy"
 }
