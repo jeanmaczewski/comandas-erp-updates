@@ -1,20 +1,20 @@
 {
     "manifestFormat":  1,
     "product":  "ComandasERP",
-    "releaseId":  "0.31.0-stable",
+    "releaseId":  "0.31.1-stable",
     "channel":  "stable",
-    "version":  "0.31.0",
+    "version":  "0.31.1",
     "minimumVersion":  "0.30.1",
-    "publishedAtUtc":  "2026-11-25T02:53:26.1019672Z",
+    "publishedAtUtc":  "2026-11-28T02:08:20.2803772Z",
     "rolloutPercentage":  100,
     "artifacts":  [
                       {
                           "platform":  "win-x64",
                           "kind":  "windows-update-zip",
-                          "fileName":  "ComandasERP-Atualizacao-0.31.0-Windows-x64.zip",
-                          "url":  "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/v0.31.0/ComandasERP-Atualizacao-0.31.0-Windows-x64.zip",
-                          "size":  267799946,
-                          "sha256":  "81b61c5dd396d5333ab89e2cf60cae89d6aaa20517e3366f40f31860c5711464"
+                          "fileName":  "ComandasERP-Atualizacao-0.31.1-Windows-x64.zip",
+                          "url":  "https://github.com/jeanmaczewski/comandas-erp-updates/releases/download/v0.31.1/ComandasERP-Atualizacao-0.31.1-Windows-x64.zip",
+                          "size":  259968598,
+                          "sha256":  "9c6ddbc02ea9f80df80e2a2f500915b91a2830dadcfe0e2e4414a8cf09221dc8"
                       }
                   ]
 }
